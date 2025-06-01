@@ -54,6 +54,13 @@ Excel was used to:
 
 📊 Training vs. Opportunity Count
 
+| Account | Training Sessions| Opportunities Created | Avg Opp. Size |
+| Trace3 | 11 |171 | $9.6K |
+| AHEAD | 2 | 31 | $13.5k |
+| CCB | 13 | 42 | $5.2K |
+| Logicalis | 2 | 9 | $10.7K |
+| Paragon Micro | 1 | 53 | $5.1k |
+
 - Trace3 shows strong training-to-opportunity ratio
 - AHEAD is undertrained but trending upward
 - CCB is high effort, low return
