@@ -55,6 +55,7 @@ Excel was used to:
 📊 Training vs. Opportunity Count
 
 | Account | Training Sessions| Opportunities Created | Avg Opp. Size |
+| --- | --- | --- | --- |
 | Trace3 | 11 |171 | $9.6K |
 | AHEAD | 2 | 31 | $13.5k |
 | CCB | 13 | 42 | $5.2K |
