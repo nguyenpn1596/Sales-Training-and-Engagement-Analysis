@@ -21,7 +21,7 @@ Hi, I'm Nguyen (Win), a Technical Account Manager at a leading hardware manufact
 🛠️ Tools:
   
 |  Area              |    Tools                                        |
-|  ------------------------------------------------------------------  |
+|  ------------------|-----------------------------------------------  |
 |  Data Storage      |    Salesforce and Internal Sales Reports        | 
 |  Language          |    SQL (MYSQL)                                  | 
 |  Data Analysis     |    SQL and Excel (PowerQuerry and Pivot Table)  |
