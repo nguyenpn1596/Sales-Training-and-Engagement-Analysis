@@ -56,7 +56,7 @@ Excel was used to:
 
 | Account | Training Sessions| Opportunities Created | Avg Opp. Size |
 | --- | --- | --- | --- |
-| Trace3 | 11 |171 | $9.6K |
+| Trace3 | 11 | 71 | $9.6K |
 | AHEAD | 2 | 31 | $13.5k |
 | CCB | 13 | 42 | $5.2K |
 | Logicalis | 2 | 9 | $10.7K |
