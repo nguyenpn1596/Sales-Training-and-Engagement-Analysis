@@ -20,12 +20,12 @@ Hi, I'm Nguyen (Win), a Technical Account Manager at a leading hardware manufact
 
 🛠️ Tools:
   
-Area              |    Tools
-------------------------------------------------------------------
-Data Storage      |    Salesforce and Internal Sales Reports
-Language          |    SQL (MYSQL)
-Data Analysis     |    SQL and Excel (PowerQuerry and Pivot Table)
-Visualization     |    Excel Charts
+|  Area              |    Tools                                        |
+|  ------------------------------------------------------------------  |
+|  Data Storage      |    Salesforce and Internal Sales Reports        | 
+|  Language          |    SQL (MYSQL)                                  | 
+|  Data Analysis     |    SQL and Excel (PowerQuerry and Pivot Table)  |
+|  Visualization     |    Excel Charts                                 |
 
 
 🧹 Data Cleaning & Exploratory Analysis:
@@ -61,12 +61,12 @@ Excel was used to:
 
 📚 Training Topics ROI:
 
-Topic                       |    Share of Training   |    Share of Opportunities
------------------------------------------------------------------------------
-Selling Storage as Add-On   |    58%                 |    45%
-BCDR & 3-2-1 Best Practice  |    26%                 |    32%
-Storge for Virtualization   |    12%                 |    18%
-Surveillance                |    4%                  |    5%
+| Topic                       | Share of Training | Share of Opportunities |
+| --------------------------- | ----------------- | ---------------------- | 
+| Selling Storage as Add-On   |    58%            |    45%                 |
+| BCDR & 3-2-1 Best Practice  |    26%            |    32%                 |
+| Storge for Virtualization   |    12%            |    18%                 |
+| Surveillance                |    4%             |    5%                  |
 
 
 🔎 Key Insights:
