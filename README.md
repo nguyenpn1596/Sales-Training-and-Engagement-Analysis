@@ -1,5 +1,6 @@
 # 📊 36-Month Sales & Training Engagement Analysis (2022-2024)
-Company Project
+
+Company Project (Account names have been anonymized as Account #1, #2, etc., to maintain confidentiality.)
 
 By Nguyen P. Nguyen — Technical Account Manager | Data Analyst
 
@@ -46,25 +47,17 @@ Excel was used to:
 
 📈 Highlights:
 
-- Trace3: 200% growth YoY in 2025 opportunities. High training correlation.
-- AHEAD: Growing pipeline without much rep engagement.
-- CCB: High rep effort but dropping sales and small opportunities.
-- Paragon Micro & Logicalis: Steady VAR sales, low enablement.
+- Account #1: 200% growth YoY in 2025 opportunities. High training correlation.
+- Account #2: Growing pipeline without much rep engagement.
+- Account #3: High rep effort but dropping sales and small opportunities.
+- Account #4 & #5: Steady VAR sales, low enablement.
 
 
 📊 Training vs. Opportunity Count
 
-| Account | Training Sessions| Opportunities Created | Avg Opp. Size |
-| --- | --- | --- | --- |
-| Trace3 | 11 | 71 | $9.6K |
-| AHEAD | 2 | 31 | $13.5k |
-| CCB | 13 | 42 | $5.2K |
-| Logicalis | 2 | 9 | $10.7K |
-| Paragon Micro | 1 | 53 | $5.1k |
-
-- Trace3 shows strong training-to-opportunity ratio
-- AHEAD is undertrained but trending upward
-- CCB is high effort, low return
+- Account #1 shows strong training-to-opportunity ratio
+- Account #2 is undertrained but trending upward
+- Account #3 is high effort, low return
 
 
 📚 Training Topics ROI:
@@ -79,10 +72,10 @@ Excel was used to:
 
 🔎 Key Insights:
 
-- Trace3 benefites the most from strategic enablement.
-- AHEAD has high growth potential with more training.
+- Account #1 benefites the most from strategic enablement.
+- Account #2 has high growth potential with more training.
 - Selling storage as add-on is the most popular and product training topic.
-- CCB’s engagement needs re-evaluation due to poor sales ROI.
+- Account #3’s engagement needs re-evaluation due to poor sales ROI.
 - Instead of focus on our hardware as main solution, having ours attached to be part of multi-vendor solution seem to yield the most results.
 - Don't compette, intergrate.
 
