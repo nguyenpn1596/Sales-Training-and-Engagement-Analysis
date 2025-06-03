@@ -1,6 +1,6 @@
 # 📊 36-Month Sales & Training Engagement Analysis (2022-2024)
 
-Company Project (Account names have been anonymized as Account #1, #2, etc., to maintain confidentiality.)
+Company Project
 
 By Nguyen P. Nguyen — Technical Account Manager | Data Analyst
 
@@ -31,6 +31,10 @@ Hi, I'm Nguyen (Win), a Technical Account Manager at a leading hardware manufact
 
 🧹 Data Cleaning & Exploratory Analysis:
 
+Collecting Data:
+- Exported account, opportunity, and training data from Salesforce (opportunity stage, close date, amount, account, rep name, training notes).
+- Consolidated internal sales reports from finance and channel teams (closed sales per account, per year, by state and partner type).
+
 SQL was used to:
 -  Join and normalize data from Salesforce and internal reports.
 -  Clean null or duplicate entries and standardize naming conventions.
@@ -44,8 +48,12 @@ Excel was used to:
 -  Create pivot tables to slice sales and training data by geography and time.
 -  Visualize trends in training frequency, sales volume, and rep engagement.
 
+Data Modeling and Building Tables:
+- Account table: show summary of all the accounts and their yearly sales
+- Training table: show the training topic and the counts per account
+- Opportunity: show the total opportunities and average size per account. 
 
-📈 Highlights:
+📈 Highlights (Account names have been anonymized as Account #1, #2, etc., to maintain confidentiality.):
 
 - Account #1: 200% growth YoY in 2025 opportunities. High training correlation.
 - Account #2: Growing pipeline without much rep engagement.
@@ -82,8 +90,8 @@ Excel was used to:
 ✅ Call to Action:
 
 1. Double Down on High-ROI Topics such as selling storage as add-on and Business Continuity and Disaster Recovery.
-2. Prioritize AHEAD and similar accounts that were understained but growing.
-3. Reevaluate engagement strategy for CCBs and other similar mid-tier accounts.
+2. Prioritize Account #2 and similar accounts that were understained but growing.
+3. Reevaluate engagement strategy for Account #3 and other similar mid-tier accounts.
 4. Increase additional outreach to focus accounts in Ohio and Wisconsin
 5. Evaluate engagements, activities and sales pipline in the monthly basis.
 
