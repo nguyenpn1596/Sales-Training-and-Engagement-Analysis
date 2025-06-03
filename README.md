@@ -7,7 +7,7 @@ By Nguyen P. Nguyen — Technical Account Manager | Data Analyst
 
 🙋‍♂️ Introduction:
 
-Hi, I'm Nguyen (Win), a Technical Account Manager at a leading hardware manufacturing company. I use data to drive sales strategy and customer success. I lead strategic support for IT resellers across Ohio, Michigan, Illinois, and Wisconsin. This analytics project explores 36 months of sales, training, and opportunity data to uncover actionable insights that can inform go-to-market strategy, engagement planning, and enablement ROI.
+As a Technical Account Manager at a leading hardware manufacturing company. I use data to drive sales strategy and customer success. I lead strategic support for IT resellers across Ohio, Michigan, Illinois, and Wisconsin. This analytics project explores 36 months of sales, training, and opportunity data to uncover actionable insights that can inform go-to-market strategy, engagement planning, and enablement ROI.
 
 
 🎯 Project Objectives:
