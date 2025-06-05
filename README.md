@@ -30,6 +30,8 @@ As a Technical Account Manager at a leading hardware manufacturing company. I us
 
 
 **🧹 Data Cleaning & Exploratory Analysis:**
+  *[SQL Script: Sales and Training Engagement](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis/blob/main/Sales%20and%20Training%20Engagement%20Data%20Analysis.sql)*
+
 
 Collecting Data:
 - Exported account, opportunity, and training data from Salesforce (opportunity stage, close date, amount, account, rep name, training notes).
@@ -53,7 +55,6 @@ Data Modeling and Building Tables:
 - Training table: show the training topic and the counts per account
 - Opportunity: show the total opportunities and average size per account.
 
-  *[SQL Script](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis/blob/main/Sales%20and%20Training%20Engagement%20Data%20Analysis.sql)*
 
 **📈 Highlights:**
 
