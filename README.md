@@ -1,16 +1,16 @@
 # 📊 36-Month Sales & Training Engagement Analysis (2022-2024)
 
-Company Project
+## Company Project
 
 By Nguyen P. Nguyen — Technical Account Manager | Data Analyst
 
 
-🙋‍♂️ Introduction:
+**🙋‍♂️ Introduction:**
 
 As a Technical Account Manager at a leading hardware manufacturing company. I use data to drive sales strategy and customer success. I lead strategic support for IT resellers across Ohio, Michigan, Illinois, and Wisconsin. This analytics project explores 36 months of sales, training, and opportunity data to uncover actionable insights that can inform go-to-market strategy, engagement planning, and enablement ROI.
 
 
-🎯 Project Objectives:
+**🎯 Project Objectives:**
 
 - Identify Top 5 accounts with highest growth potential
 - Analyze year-over-year sales trends and engagement levels
@@ -19,7 +19,7 @@ As a Technical Account Manager at a leading hardware manufacturing company. I us
 - Recommend actionable steps to maximize ROI from sales efforts
 
 
-🛠️ Tools:
+**🛠️ Tools:**
   
 |  Area              |    Tools                                        |
 |  ------------------|-----------------------------------------------  |
@@ -29,7 +29,7 @@ As a Technical Account Manager at a leading hardware manufacturing company. I us
 |  Visualization     |    Excel Charts                                 |
 
 
-🧹 Data Cleaning & Exploratory Analysis:
+**🧹 Data Cleaning & Exploratory Analysis:**
 
 Collecting Data:
 - Exported account, opportunity, and training data from Salesforce (opportunity stage, close date, amount, account, rep name, training notes).
@@ -53,7 +53,9 @@ Data Modeling and Building Tables:
 - Training table: show the training topic and the counts per account
 - Opportunity: show the total opportunities and average size per account. 
 
-📈 Highlights (Account names have been anonymized as Account #1, #2, etc., to maintain confidentiality.):
+**📈 Highlights:**
+
+*(Account names have been anonymized as Account #1, #2, etc., to maintain confidentiality.)*
 
 - Account #1: 200% growth YoY in 2025 opportunities. High training correlation.
 - Account #2: Growing pipeline without much rep engagement.
@@ -61,14 +63,14 @@ Data Modeling and Building Tables:
 - Account #4 & #5: Steady VAR sales, low enablement.
 
 
-📊 Training vs. Opportunity Count
+**📊 Training vs. Opportunity Count:**
 
 - Account #1 shows strong training-to-opportunity ratio
 - Account #2 is undertrained but trending upward
 - Account #3 is high effort, low return
 
 
-📚 Training Topics ROI:
+**📚 Training Topics ROI:**
 
 | Topic                       | Share of Training | Share of Opportunities |
 | --------------------------- | ----------------- | ---------------------- | 
@@ -78,7 +80,7 @@ Data Modeling and Building Tables:
 | Surveillance                |    4%             |    5%                  |
 
 
-🔎 Key Insights:
+**🔎 Key Insights:**
 
 - Account #1 benefites the most from strategic enablement.
 - Account #2 has high growth potential with more training.
@@ -87,7 +89,7 @@ Data Modeling and Building Tables:
 - Instead of focus on our hardware as main solution, having ours attached to be part of multi-vendor solution seem to yield the most results.
 - Don't compette, intergrate.
 
-✅ Call to Action:
+**✅ Call to Action:**
 
 1. Double Down on High-ROI Topics such as selling storage as add-on and Business Continuity and Disaster Recovery.
 2. Prioritize Account #2 and similar accounts that were understained but growing.
