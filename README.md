@@ -51,7 +51,9 @@ Excel was used to:
 Data Modeling and Building Tables:
 - Account table: show summary of all the accounts and their yearly sales
 - Training table: show the training topic and the counts per account
-- Opportunity: show the total opportunities and average size per account. 
+- Opportunity: show the total opportunities and average size per account.
+
+  *[SQL Script](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis/blob/main/Sales%20and%20Training%20Engagement%20Data%20Analysis.sql)*
 
 **📈 Highlights:**
 
