@@ -100,8 +100,16 @@ Data Modeling and Building Tables:
 4. Increase additional outreach to focus accounts in Ohio and Wisconsin
 5. Evaluate engagements, activities and sales pipline in the monthly basis.
 
-   
+---
 
+## 📚 My Other Projects:
+
+- [Walmart Sales Analysis](https://github.com/nguyenpn1596/Walmart-Sales-Analysis/tree/main)
+- [COVID-19 Global Vaccine Tracker](https://github.com/nguyenpn1596/global-covid-vaccine-tracker/tree/main)
+- [World Life Expectancy](https://github.com/nguyenpn1596/World-Life-Expectancy)
+- [Sales & Training Analysis](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis)
+
+## 👋🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyenpn96/)
   
 
   
